@@ -1,4 +1,4 @@
-# Portfolio of Jiaqi Li
+# Portfolio of Jiaqi Li 🚀
 
 ## Project 1:
 ### Tech: Data Processing | Data Visualization | Statistical Reasoning
