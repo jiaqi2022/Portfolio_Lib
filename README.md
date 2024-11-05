@@ -3,7 +3,13 @@
 ## Final Report
 https://github.com/jiaqi2022/Trending_Youtube_Video_Analysis/blob/2840f45927ae3b56686b06f1b9fd9cbf6d79ff6c/YouTube_Trend.ipynb
 
-
+## Key findings:
+1. The U.S. and the U.K. lead in YouTube video views among top-trending videos.
+2. Content preferences vary by country: music videos dominate in the U.S. and U.K., while entertainment videos are most popular in Canada, India, and Germany.
+3. The repeated spikes in these categories suggest possible cyclic trends in content consumption
+4. Most countries gain the majority of their views within the first 5 days of posting, but in the U.S. and U.K., videos continue to attract views for up to 20 days.
+5. In countries like Canada, France, Germany, the U.K., and the U.S., videos posted on Fridays receive the highest views. In India, Wednesday posts generate the most views, likes, and comments.
+6. Videos with titles between 30 and 70 characters tend to receive higher total views.
 
 ## Motivation
 As YouTube users, particularly as we consider potentially entering this industry in the future (which we are contemplating), our team is highly interested in relevant information. Our curiosity drives us to explore a series of practical and meaningful questions. For example, what are the differences in content preferences among viewers from different countries or regions? How do these differences influence the creation and dissemination of content? Additionally, we are eager to understand which areas currently host popular topics and how the popularity of these fields changes over time. For instance, some regions may lean more toward entertainment content, while others may show a greater interest in educational videos, affecting how content creators position themselves and develop strategies.
