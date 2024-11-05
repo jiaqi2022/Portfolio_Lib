@@ -1,5 +1,10 @@
 # Trending Youtube Video Analysis
 
+## Final Report
+https://github.com/jiaqi2022/Trending_Youtube_Video_Analysis/blob/2840f45927ae3b56686b06f1b9fd9cbf6d79ff6c/YouTube_Trend.ipynb
+
+
+
 ## Motivation
 As YouTube users, particularly as we consider potentially entering this industry in the future (which we are contemplating), our team is highly interested in relevant information. Our curiosity drives us to explore a series of practical and meaningful questions. For example, what are the differences in content preferences among viewers from different countries or regions? How do these differences influence the creation and dissemination of content? Additionally, we are eager to understand which areas currently host popular topics and how the popularity of these fields changes over time. For instance, some regions may lean more toward entertainment content, while others may show a greater interest in educational videos, affecting how content creators position themselves and develop strategies.
 
