@@ -1,7 +1,7 @@
 # Trending Youtube Video Analysis
 
 ## Final Report
-https://github.com/jiaqi2022/Trending_Youtube_Video_Analysis/blob/2840f45927ae3b56686b06f1b9fd9cbf6d79ff6c/YouTube_Trend.ipynb
+Report is in Trending_Youtube_Video_Analysis.ipynb.
 
 ## Key findings:
 1. The U.S. and the U.K. lead in YouTube video views among top-trending videos.
