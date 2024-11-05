@@ -17,7 +17,7 @@ Data Scientist/ Data Analyst with 3 years of experiences in data processing, sta
 
 
 ## Project 4:
-### Tech: Data Cleaning | Web Scraping | Front End Development | Back End Development | Application Development
+### Tech: Data Cleaning | Web Scraping | Front End | Back End | Application Development
 [Pitts - Book Application](https://github.com/jiaqi2022/Pitts_Book)
 
 ## Social Accounts
