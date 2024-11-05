@@ -1,5 +1,8 @@
 # Portfolio of Jiaqi Li 🚀
 
+## About Me:
+Data Scientist/ Data Analyst with 3 years of experiences in data processing, statistical analysis, visualization, machine learning and deep learning.
+
 ## Project 1:
 ### Tech: Python | Data Processing | Data Visualization | Statistical Reasoning
 [Youtube_Treading_Analysis](https://github.com/jiaqi2022/Youtube_Treading_Analysis)
@@ -17,7 +20,5 @@
 ### Tech: Data Cleaning | Web Scraping | Front End Development | Back End Development | Application Development
 [Pitts - Book Application](https://github.com/jiaqi2022/Pitts_Book)
 
-## About Me:
-
-
+## Social Accounts
 [LinkedIn Profile](https://www.linkedin.com/in/jiaqilidsda/)
