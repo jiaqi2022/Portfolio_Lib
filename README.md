@@ -2,6 +2,7 @@
 
 ## About Me:
 <ins> Data Scientist/ Data Analyst with 3 years of experiences in data processing, statistical analysis, visualization, machine learning and deep learning. </ins>
+## Data Scientist/ Data Analyst with 3 years of experiences in data processing, statistical analysis, visualization, machine learning and deep learning. ##
 
 ## Project 1:
 ### Tech: Python | Data Processing | Data Visualization | Statistical Reasoning
