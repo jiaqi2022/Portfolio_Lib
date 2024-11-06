@@ -17,7 +17,7 @@
 
 
 ## Project 4:
-### Tech: Data Cleaning | Web Scraping | Front End | Back End | Application Development
+### Tech: Python | Data Cleaning | Web Scraping | Front End | Back End | Application Development
 [Pitts - Book Application](https://github.com/jiaqi2022/Pitts_Book)
 
 ## Social Accounts
